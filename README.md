@@ -25,7 +25,7 @@ The To-Do List Mini Project is a web application developed using JavaScript. It 
 
 - index.html: HTML file containing the structure of the web page.
 - style.css: CSS file for styling the web page.
-- script.js: JavaScript file containing the logic for task management.
+- app.js: JavaScript file containing the logic for task management.
 
 ## Contributing
 
